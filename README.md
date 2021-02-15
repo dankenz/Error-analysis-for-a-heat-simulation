@@ -8,7 +8,8 @@ The heat equation, along with variants thereof, is also important in many fields
 
 For more information about the method see: 'Numerical recipes: the art of scientific computing' third edition from william H. Press, Saul A. Teukolsky, William T. Vetterling and Brian P. Flannery
 
-
+There are 2 separate files called "time used" and "Total error" that are the graphs obtained by the program
+The mathematica notebook file is the same as the pdf file in case you cant open it.
 
 
 
